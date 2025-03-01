@@ -1,30 +1,20 @@
-# Sachin H V
+Sachin H V
+About Me
+Hello! I am Sachin H V, an Application Support Analyst with expertise in technical support, troubleshooting, and system optimization. I specialize in analyzing and maintaining business-critical applications, ensuring seamless operations, and enhancing system performance.
 
-## About Me
+Current Work
+I am currently working on Shopfloor Control System, where I focus on application support, incident management, and process optimization. My role involves troubleshooting issues, monitoring system performance, and collaborating with development teams to ensure smooth functionality.
 
-Hello! I am Sachin H V, a MERN Stack Developer with experience in developing and optimizing Shopfloor control systems. I specialize in building scalable and efficient web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+Skills
+Application Support & IT Operations
+Incident & Problem Management: Identifying and resolving system issues efficiently
+Database Management: SQL, Oracle, data analysis, and query optimization
+System Administration: Windows, Linux, and IT service management tools
+Technical Documentation: Creating and maintaining support guides and reports
+Projects
+Leopard – Shopfloor Control System (Application support & enhancements)
+Contact
+📧 Email: sachin.virat.0202@gmail.com
+🔗 LinkedIn: Sachin H V
 
-## Current Work
-
-I am currently working on [Shopfloor Control System](#) where I focus on improving operational efficiency through advanced web technologies and integration.
-
-## Skills
-
-- MERN Stack Development: MongoDB, Express.js, React.js, Node.js
-- Shopfloor Control Systems: Designing and implementing systems to enhance manufacturing operations.
-- Technical Skills: HTML, CSS, JavaScript, REST APIs, Git, Agile methodologies
-
-## Projects
-
-- Leopard: Shop FLoor control system.
-
-## Contact
-
-- Email: sachin.virat.0202@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sachin-h-v-0a585a287
-
-
-Feel free to browse through my repositories and connect with me for any inquiries or collaborations!
-
-
-
+Feel free to explore my repositories and connect with me for collaborations, support insights, or technical discussions! 🚀
